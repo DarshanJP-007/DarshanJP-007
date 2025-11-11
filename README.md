@@ -8,7 +8,7 @@
 - 🎓 I’m currently learning **Data Analytics**
 - 💡 Passionate about exploring insights hidden within data  
 - 🔍 Skilled in **Python**, **SQL**, and **Data Visualization**
-- 🚀 Open to exciting opportunities in **SQL**, **Python**, and **Analytics**
+- 🚀 Open to exciting opportunities in **SQL**, **Python**, and **Data Analytics**
 - 📧 Reach me at: [darshanjp77@gmail.com](mailto:darshanjp77@gmail.com)
 
 ---
