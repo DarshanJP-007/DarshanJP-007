@@ -54,7 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanJP-007&theme=tokyonight" alt="GitHub Streak" /><br><br>
 
   <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanJP-007E&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanJP-007&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
 
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanJP-007&layout=compact&theme=tokyonight" alt="Top Languages" />
