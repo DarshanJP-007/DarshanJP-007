@@ -49,9 +49,16 @@
 ---
 
 ## ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshanjp77&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=darshanjp77&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanjp77&layout=compact&theme=tokyonight)
+<p align="center">
+  <!-- Streak (optional) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanJP-007&theme=tokyonight" alt="GitHub Streak" /><br><br>
+
+  <!-- General stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanJP-007E&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanJP-007&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
