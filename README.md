@@ -1,70 +1,103 @@
-# 👋 Hello, I'm Darshan JP
-
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hello, I'm <span style="color:#00BFFF;">Darshan JP</span></h1>
 <h3 align="center">"From query to clarity — decoding data with analytics, SQL, and Python."</h3>
 
----
-
-## 💼 About Me:
-- 🎓 I’m currently learning **Data Analytics**
-- 💡 Passionate about exploring insights hidden within data  
-- 🔍 Skilled in **Python**, **SQL**, and **Data Visualization**
-- 🚀 Open to exciting opportunities in **SQL**, **Python**, and **Data Analytics**
-- 📧 Reach me at: [darshanjp77@gmail.com](mailto:darshanjp77@gmail.com)
-
----
-
-## 🧠 Skills & Tools:
-
-### 🔹 Programming & Analysis
-- Python 🐍  
-- SQL 💾  
-- Pandas | NumPy  
-
-### 🔹 Visualization & Reporting
-- Matplotlib | Seaborn | Plotly 📊  
-- Power BI (Learning Phase)  
-
-### 🔹 Databases
-- MySQL 🧩  
-
-### 🔹 Development & Version Control
-- VS Code 💻  
-- Jupyter Notebook 📘  
-- Git | GitHub 🧠  
-
----
-
-## 🌱 Currently Learning:
-- Advanced **Data Analytics**
-- Data Cleaning, Visualization, and Statistical Insights
-- Real-world data projects using **Python** and **SQL**
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-jp-879068376)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__darshannnn_?igsh=aHVpa2hsb3ZyMXpz&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:darshanjp77@gmail.com)
-
----
-
-## ⚡ GitHub Stats:
 <p align="center">
-  <!-- Streak (optional) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanJP-007&theme=tokyonight" alt="GitHub Streak" /><br><br>
-
-  <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanJP-007&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanJP-007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+and+Action" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💬 Quote to Remember:
-<h3 align="center">"From query to clarity — decoding data with analytics, SQL, and Python."</h3>
+## 💼 About Me
+
+- 🎓 Currently learning **Data Analytics**
+- 💡 Passionate about uncovering insights hidden within data  
+- 🔍 Skilled in **Python**, **SQL**, and **Data Visualization**
+- 🌱 Exploring **Power BI**, **Advanced Analytics**, and **Business Intelligence**
+- 🚀 Open to exciting opportunities in **Data Analytics**, **SQL**, and **Python**
+- 📫 Reach me at: [darshanjp77@gmail.com](mailto:darshanjp77@gmail.com)
+
+<h4 align="center">⚡ "Data doesn’t speak for itself — it speaks through those who understand it." 📊<br>– Darshan JP</h4>
 
 ---
 
-⭐️ *Thank you for visiting my profile — let's connect, learn, and grow together!* 🚀
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan-jp-879068376"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/__darshannnn_?igsh=aHVpa2hsb3ZyMXpz&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:darshanjp77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+## 🧠 Tech Stack & Tools
+
+### 💻 Programming & Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="50"/>
+</p>
+
+### 📚 Libraries & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-F37626.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/seaborn-76B900.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 📊 Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Data Insights Dashboard (Power BI)](https://github.com/DarshanJP-007)
+🔹 Created interactive Power BI dashboards to visualize sales and customer data  
+🔹 Used Python and SQL for data cleaning and analysis  
+🔹 *Impact:* Simplified business reporting and boosted insights visibility  
+
+### 🧩 [SQL Data Exploration Project](https://github.com/DarshanJP-007)
+🔹 Performed end-to-end data exploration using **MySQL**  
+🔹 Designed complex queries for data extraction and performance metrics  
+🔹 *Outcome:* Improved data understanding through analytical SQL queries  
+
+### 📈 [Python Data Analysis Portfolio](https://github.com/DarshanJP-007)
+🔹 Analyzed real-world datasets using **Pandas**, **Matplotlib**, and **Seaborn**  
+🔹 Implemented statistical insights and visual storytelling  
+🔹 *Result:* Gained strong hands-on analytics experience  
+
+---
+
+## ⚡ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanJP-007&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanJP-007&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanJP-007&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 Certifications & Learning
+
+- 📊 *Google Data Analytics Professional Certificate* *(in progress)*  
+- 📈 *Python for Data Analysis* — Coursera  
+- 🧠 *SQL (Intermediate)* — HackerRank  
+
+---
+
+## 📘 Learning & Sharing
+- 📝 Exploring **Medium** wr
