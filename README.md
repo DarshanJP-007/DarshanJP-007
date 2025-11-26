@@ -56,26 +56,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [Data Insights Dashboard (Power BI)](https://github.com/DarshanJP-007)
-🔹 Created interactive Power BI dashboards to visualize sales and customer data  
-🔹 Used Python and SQL for data cleaning and analysis  
-🔹 *Impact:* Simplified business reporting and boosted insights visibility  
-
-### 🧩 [SQL Data Exploration Project](https://github.com/DarshanJP-007)
-🔹 Performed end-to-end data exploration using **MySQL**  
-🔹 Designed complex queries for data extraction and performance metrics  
-🔹 *Outcome:* Improved data understanding through analytical SQL queries  
-
-### 📈 [Python Data Analysis Portfolio](https://github.com/DarshanJP-007)
-🔹 Analyzed real-world datasets using **Pandas**, **Matplotlib**, and **Seaborn**  
-🔹 Implemented statistical insights and visual storytelling  
-🔹 *Result:* Gained strong hands-on analytics experience  
-
+  
 ---
 
 ## ⚡ GitHub Analytics
@@ -88,14 +69,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanJP-007&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
 </p>
-
----
-
-## 🏆 Certifications & Learning
-
-- 📊 *Google Data Analytics Professional Certificate* *(in progress)*  
-- 📈 *Python for Data Analysis* — Coursera  
-- 🧠 *SQL (Intermediate)* — HackerRank  
 
 ---
 
