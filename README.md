@@ -72,5 +72,30 @@
 
 ---
 
-## 📘 Learning & Sharing
-- 📝 Exploring **Medium** wr
+## 🏆 Achievements & Goals
+
+- 🎯 Building my **portfolio of real-world analytics projects**  
+- 🧠 Completing **advanced Python & SQL mastery path**  
+- 💡 Working on my **first Power BI project dashboard**
+
+---
+
+## 🧩 Fun Facts About Me
+- 💬 Love exploring real-world datasets & creating meaningful visuals  
+- 🧩 Enjoy solving analytical challenges and SQL queries  
+- 🎯 2025 Goal: **Publish 5+ impactful data projects on GitHub**  
+- ☕ Powered by caffeine and curiosity  
+
+---
+
+<h3 align="center">✨ “Data is not just numbers — it's a story waiting to be told.” ✨</h3>
+
+<p align="center">
+  ⭐ If you enjoy my work, consider giving a star to my repositories — your support keeps me motivated! 💪  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,100:FFFF1C&height=100&section=footer"/>
+</p>
